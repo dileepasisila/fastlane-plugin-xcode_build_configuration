@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'dileepa@huubap.com'
 
   spec.summary       = 'plugin for doing xcode build configuration specific things'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-xcode_build_configuration"
+  spec.homepage      = "https://github.com/dileepasisila/fastlane-plugin-xcode_build_configuration"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
